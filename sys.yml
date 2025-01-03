@@ -4,6 +4,30 @@
   fr: Aqua
   gr: Aqua
   it: Aqua
+- id: 0x0520
+  en: Aqua-Fire
+  sp: Aqua-Fire
+  fr: Aqua-Fire
+  gr: Aqua-Feuer
+  it: Aqua-Fire
+- id: 0x0520
+  en: Aqua-Ice
+  sp: Aqua-Ice
+  fr: Aqua-Ice
+  gr: Aqua-Eis
+  it: Aqua-Ice
+- id: 0x0520
+  en: Aqua-Thunder
+  sp: Aqua-Thunder
+  fr: Aqua-Thunder
+  gr: Aqua-Blitz
+  it: Aqua-Thunder
+- id: 0x0520
+  en: Aqua-Cure
+  sp: Aqua-Cure
+  fr: Aqua-Cure
+  gr: Aqua-Vita
+  it: Aqua-Cure
 - id: 0x05CE
   en: Rainfell
   sp: Aguacero
