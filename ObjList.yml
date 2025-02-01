@@ -3,7 +3,7 @@
   ObjectType: FRIEND
   SubType: 0
   DrawPriority: 0
-  WeaponJoint: 24
+  WeaponJoint: 22
   ModelName: P_LK020
   AnimationName: P_LK020.mset
   Flags: 0
